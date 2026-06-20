@@ -65,24 +65,6 @@ Engineered a sophisticated paper trading platform that combines market dynamics 
 
 ---
 
-### 🐾 **Pawfect Care**: Pet Adoption & Health Management Platform
-**Full-Stack Developer** | Real-time Systems | Secure REST APIs
-
-Built a comprehensive pet adoption platform with intelligent matching algorithms, health tracking, and AI-powered pet care suggestions.
-
-**Architecture Highlights:**
-- **Frontend:** React with Vite + Tailwind CSS for responsive, high-performance UI
-- **Backend:** 25+ secured REST APIs with JWT authentication and role-based access control
-- **Real-time Features:** Socket.io for instant chat and notifications
-- **AI Integration:** GROQ AI for intelligent pet name generation and adoption recommendations
-- **Health Tracking:** MongoDB-backed health record management with historical analytics
-- **File Management:** Secure image uploads via Multer with validation
-- **Database:** MongoDB for flexible pet/user data models; Redis for session caching
-
-**Key Tech:** `React` • `Node.js/Express` • `Socket.io` • `JWT Auth` • `GROQ AI` • `MongoDB` • `Tailwind CSS` • `Vite`
-
----
-
 ### 🎓 **AI Career Coach**: Next.js AI-Powered Career Development Platform
 **Full-Stack Developer** | Multi-AI Integration | Background Automation
 
@@ -98,6 +80,24 @@ Developed a comprehensive career development platform that assists users with re
 - **Features:** Resume builder with structured sections, AI-powered cover letter generation, technical interview quiz with scoring, dashboard with progress tracking and saved assessments
 
 **Key Tech:** `Next.js` • `React` • `Tailwind CSS` • `Prisma` • `Clerk` • `Gemini AI` • `Inngest` • `PostgreSQL`
+
+---
+
+### 🐾 **Pawfect Care**: Pet Adoption & Health Management Platform
+**Full-Stack Developer** | Real-time Systems | Secure REST APIs
+
+Built a comprehensive pet adoption platform with intelligent matching algorithms, health tracking, and AI-powered pet care suggestions.
+
+**Architecture Highlights:**
+- **Frontend:** React with Vite + Tailwind CSS for responsive, high-performance UI
+- **Backend:** 25+ secured REST APIs with JWT authentication and role-based access control
+- **Real-time Features:** Socket.io for instant chat and notifications
+- **AI Integration:** GROQ AI for intelligent pet name generation and adoption recommendations
+- **Health Tracking:** MongoDB-backed health record management with historical analytics
+- **File Management:** Secure image uploads via Multer with validation
+- **Database:** MongoDB for flexible pet/user data models; Redis for session caching
+
+**Key Tech:** `React` • `Node.js/Express` • `Socket.io` • `JWT Auth` • `GROQ AI` • `MongoDB` • `Tailwind CSS` • `Vite`
 
 ---
 
