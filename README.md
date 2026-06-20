@@ -83,6 +83,24 @@ Built a comprehensive pet adoption platform with intelligent matching algorithms
 
 ---
 
+### 🎓 **AI Career Coach**: Next.js AI-Powered Career Development Platform
+**Full-Stack Developer** | Multi-AI Integration | Background Automation
+
+Developed a comprehensive career development platform that assists users with resume building, cover letter generation, and technical interview preparation powered by AI.
+
+**Architecture Highlights:**
+- **Frontend:** Next.js App Router with React and Tailwind CSS for a modern, responsive UI
+- **Authentication:** Clerk for secure user authentication and onboarding flow
+- **AI Integration:** Google Generative AI (Gemini) for intelligent resume feedback, cover letter generation, and interview question generation
+- **Backend:** Server-side actions for form processing and data management
+- **Database:** Prisma ORM with structured data models for users, resumes, cover letters, and interview sessions
+- **Background Jobs:** Inngest for asynchronous background automation and job queue management
+- **Features:** Resume builder with structured sections, AI-powered cover letter generation, technical interview quiz with scoring, dashboard with progress tracking and saved assessments
+
+**Key Tech:** `Next.js` • `React` • `Tailwind CSS` • `Prisma` • `Clerk` • `Gemini AI` • `Inngest` • `PostgreSQL`
+
+---
+
 ## 🌟 Leadership & Community Impact
 
 - **Peer Educator & Student Placement Coordinator:** Led technical workshops and upskilled **50+ batchmates** in full-stack development, data structures, and cloud technologies
