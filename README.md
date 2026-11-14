@@ -53,6 +53,16 @@ A paper trading platform that combines market dynamics with behavioral finance t
 
 **Key technologies:** `MERN Stack` • `Python FastAPI` • `XGBoost` • `SHAP` • `Socket.IO` • `Redis` • `Microservices`
 
+### 💧 AquaFlow (now HydroLedger) — Infosys Project
+
+A smart water usage monitoring and automated billing platform for apartment communities. It tracks household meter readings, calculates tiered-tariff bills, manages billing cycles, and apportions shared common-area costs.
+
+**Key features:** Role-based access for community admins, residents, and system admins; PostgreSQL-backed meter and billing data; Flyway migrations; PDF invoice generation; support tickets; announcements; PWA and web push; multilingual UI; and community verification workflows.
+
+**Key technologies:** `Java 21` • `Spring Boot` • `Spring Security` • `JWT` • `React` • `Vite` • `PostgreSQL` • `Flyway` • `Apache POI` • `PDFBox`
+
+> The private repository was recently renamed from AquaFlow to HydroLedger; the project is included here under its original name for recognition.
+
 ### 🎓 [AI Career Coach](https://github.com/shabbir-kh4n/AI-Career-Coach) — AI-Powered Career Platform
 
 A full-stack platform for resume building, tailored cover letters, technical interview practice, progress tracking, and AI-powered career guidance.
