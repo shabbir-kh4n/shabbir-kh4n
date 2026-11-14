@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Full-Stack Engineer | AI/ML Enthusiast | Open Source Contributor
+### 🚀 Full-Stack Engineer | AI/ML Enthusiast | Software Builder
 
 Building practical software at the intersection of full-stack engineering, AI-assisted applications, and developer education. I enjoy turning complex ideas into clear, reliable products and tools.
 
@@ -53,15 +53,13 @@ A paper trading platform that combines market dynamics with behavioral finance t
 
 **Key technologies:** `MERN Stack` • `Python FastAPI` • `XGBoost` • `SHAP` • `Socket.IO` • `Redis` • `Microservices`
 
-### 💧 AquaFlow (now HydroLedger) — Infosys Project
+### 💧 [AquaFlow](https://github.com/shabbir-kh4n/AquaFlow) (now HydroLedger) — Infosys Project
 
 A smart water usage monitoring and automated billing platform for apartment communities. It tracks household meter readings, calculates tiered-tariff bills, manages billing cycles, and apportions shared common-area costs.
 
 **Key features:** Role-based access for community admins, residents, and system admins; PostgreSQL-backed meter and billing data; Flyway migrations; PDF invoice generation; support tickets; announcements; PWA and web push; multilingual UI; and community verification workflows.
 
 **Key technologies:** `Java 21` • `Spring Boot` • `Spring Security` • `JWT` • `React` • `Vite` • `PostgreSQL` • `Flyway` • `Apache POI` • `PDFBox`
-
-> The private repository was recently renamed from AquaFlow to HydroLedger; the project is included here under its original name for recognition.
 
 ### 🎓 [AI Career Coach](https://github.com/shabbir-kh4n/AI-Career-Coach) — AI-Powered Career Platform
 
@@ -90,7 +88,7 @@ An interactive educational tool that visualizes Regular Expression to NFA conver
 - **Peer Educator & Student Placement Coordinator:** Led technical workshops and helped upskill **50+ batchmates** in full-stack development, data structures, and cloud technologies
 - **Accessibility Advocate:** Volunteered at accessibility exhibitions supporting students with special needs
 - **Engineering Project Lead:** Directed cross-functional teams through system design and delivery
-- **Open Source Mindset:** Passionate about building tools that solve real problems and contribute to the developer community
+- **Project Builder:** Passionate about building tools that solve real problems and create practical value
 
 ---
 
@@ -98,7 +96,11 @@ An interactive educational tool that visualizes Regular Expression to NFA conver
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabbir-kh4n&layout=compact&theme=radical)
+[![GitHub followers](https://img.shields.io/github/followers/shabbir-kh4n?style=for-the-badge&logo=github)](https://github.com/shabbir-kh4n?tab=followers)
+[![Public repositories](https://img.shields.io/github/public-repositories/shabbir-kh4n?style=for-the-badge&logo=github)](https://github.com/shabbir-kh4n?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=shabbir-kh4n&style=for-the-badge&color=blue)](https://github.com/shabbir-kh4n)
+
+[View my GitHub activity and repositories](https://github.com/shabbir-kh4n)
 
 </div>
 
