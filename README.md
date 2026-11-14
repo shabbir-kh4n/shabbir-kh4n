@@ -90,19 +90,6 @@ An interactive educational tool that visualizes Regular Expression to NFA conver
 - **Engineering Project Lead:** Directed cross-functional teams through system design and delivery
 - **Project Builder:** Passionate about building tools that solve real problems and create practical value
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/shabbir-kh4n?style=for-the-badge&logo=github)](https://github.com/shabbir-kh4n?tab=followers)
-[![Public repositories](https://img.shields.io/github/public-repositories/shabbir-kh4n?style=for-the-badge&logo=github)](https://github.com/shabbir-kh4n?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=shabbir-kh4n&style=for-the-badge&color=blue)](https://github.com/shabbir-kh4n)
-
-[View my GitHub activity and repositories](https://github.com/shabbir-kh4n)
-
-</div>
 
 ---
 
