@@ -45,6 +45,14 @@ A planned agentic assistant for live web research, tool calling, evidence-backed
 
 > Current status: foundation scaffold and service health checks are in place; application features are still under development.
 
+### 🎲 RiskWise — Emotional Trading Analysis & Risk Advisory System
+
+A paper trading platform that combines market dynamics with behavioral finance to provide AI-driven risk assessments and trading recommendations.
+
+**Architecture highlights:** React and Angular interfaces, Node.js/Express microservices, Python FastAPI for ML inference, Socket.IO real-time data streaming, Redis caching, XGBoost prediction, SHAP explainability, Pandas/NumPy feature engineering, MySQL transactions, and MongoDB analytics.
+
+**Key technologies:** `MERN Stack` • `Python FastAPI` • `XGBoost` • `SHAP` • `Socket.IO` • `Redis` • `Microservices`
+
 ### 🎓 [AI Career Coach](https://github.com/shabbir-kh4n/AI-Career-Coach) — AI-Powered Career Platform
 
 A full-stack platform for resume building, tailored cover letters, technical interview practice, progress tracking, and AI-powered career guidance.
